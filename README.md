@@ -1,5 +1,5 @@
 \
-# 教会图书智能推荐（Flask + React）
+# 图书智能推荐（Flask + React）
 
 这是一个本地运行的书本推荐网页项目，后端使用 Flask，前端使用 React。系统会读取 `database.csv`，把整份馆藏交给 Gemini API，再只从数据库中返回不超过 10 本推荐书籍。
 
